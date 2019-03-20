@@ -11,8 +11,8 @@ menu:
 # favicon & avtor
 # if the value of avtor is false, the 'say' is optional.
 
-favicon: http://image.cdn.renzhaosy.cn/WechatIMG38.jpeg
-avtor: http://image.cdn.renzhaosy.cn/logo/logo.png
+favicon: https://image.cdn.renzhaosy.cn/WechatIMG38.jpeg
+avtor: https://image.cdn.renzhaosy.cn/logo/logo.png
 say: Welcome 
 
 # background_image

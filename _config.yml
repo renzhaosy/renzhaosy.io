@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
+title: JOINER | BLOG
+subtitle: 
+description: renzhaosy Blog | Joiner Blog
+keywords: Javascript | joiner | renzhaosy
 author: Joiner Ren
-language:
+language: zh-cn
 timezone:
 
 # URL
@@ -17,7 +17,6 @@ url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-
 
 # Directory
 source_dir: source
