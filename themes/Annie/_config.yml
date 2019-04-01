@@ -22,13 +22,13 @@ say: Welcome
 # May be cause CROS bug!
 background_image:
     mode: random #normal or random
-    normal_url: http://image.cdn.renzhaosy.cn/random-img/1.jpg
-    random_max: 1 
-    random_url: http://image.cdn.renzhaosy.cn/random-img/
+    #normal_url: http://image.cdn.renzhaosy.cn/random-img/1.jpg
+    random_max: 3
+    random_url: https://image.cdn.renzhaosy.cn/random-img/
     
 # show motto
 motto:
-    enable: false
+    enable: true
 
 # 02-PROLOADER
 # animation: spinner, transition or cyclic

@@ -49,6 +49,9 @@
   <% if(page.type === "gallery"){ %>
     <%- css(['css/style.css','gallery/natural.css','gallery/natural-gallery.full.css']) %>
   <% } %>
+  <% if(page.runenable){ %>
+    <%- css('css/task.css') %>
+<% } %>
 
     <!-- jquery -->
 	<%- js(['js/jquery-2.1.1.min.js'])%>
