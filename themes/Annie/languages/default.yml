@@ -9,6 +9,7 @@ about: 关于
 gallery: 相册
 search: 搜索
 friend: 友链
+document: 文档库
 
 #navgation
 prev: 上一页
@@ -31,7 +32,6 @@ post: 文章
 ge: 个
 tag_tags: 标签
 category_categories: 分类
-
 
 #post
 current_post: 当前文章
