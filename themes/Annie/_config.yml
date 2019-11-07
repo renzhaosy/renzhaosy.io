@@ -6,13 +6,13 @@ menu:
   #categories: /categories
   tags: /tags
   #about: /about
-  document: http://document.renzhaosy.cn/
+  document: https://renzhaosy.cn/document
   gallery: /gallery
 
 # favicon & avtor
 # if the value of avtor is false, the 'say' is optional.
 
-favicon: https://image.cdn.renzhaosy.cn/WechatIMG38.jpeg
+favicon: /img/favicon.png
 avtor: https://image.cdn.renzhaosy.cn/logo/logo.png
 say: Welcome
 
@@ -42,7 +42,7 @@ preloader:
 index_style: cart
 
 # index_cart_cover
-cover: /img/cart_cover.jpg
+cover: https://image.cdn.renzhaosy.cn/random-img/1.jpg
 
 # 04-POST
 # post_relate
@@ -82,14 +82,14 @@ leancloud_count:
   appid: "knebQ2pRXSBzp7LEoP0i8qdv-gzGzoHsz"
   appkey: "njoQbebO5vprWwlJFcmpEzkf"
   like_post:
-    enable: true
+    enable: false
   visit_post:
-    enable: true
+    enable: false
   topN_post:
-    enable: true #param1 for topN_post
+    enable: false #param1 for topN_post
     limit: 10 #param2 for topN_post
 busuanzi_count:
-  enable: true
+  enable: false
 
 # post_toc
 post_toc:
@@ -121,7 +121,7 @@ social:
 
 # copyright
 since: 2019
-cotent_author: Joiner
+cotent_author: renzhaosy
 
 # 06-OTHERS
 # rss
