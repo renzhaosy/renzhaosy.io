@@ -1,8 +1,7 @@
 ---
 title: "Nodenv管理Node版本"
 date: 2019-04-5 21:00:00
-# cover: https://image.cdn.renzhaosy.cn/random-img/1.jpg
-cover: /img/node.jpeg
+cover: https://image.cdn.renzhaosy.cn/post/node.jpeg
 tags:
   - 工具
   - node

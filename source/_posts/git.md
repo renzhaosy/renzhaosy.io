@@ -1,7 +1,7 @@
 ---
 title: "git 常用命令"
 date: 2016-06-23 00:00:00
-cover: /img/git.jpeg
+cover: https://image.cdn.renzhaosy.cn/post/git.jpeg
 tags:
   - 笔记
 ---

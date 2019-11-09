@@ -1,6 +1,6 @@
 ---
 title: "GitHub Action部署Hexo静态页面"
-cover: /img/github-action.jpg
+cover: https://image.cdn.renzhaosy.cn/post/github-action.jpg
 tags:
   - 笔记
 ---
